@@ -1,5 +1,7 @@
 - Nuxt
-  - Nuxt の自動で反映されるディレクトリの機能 [?](https://ja.nuxtjs.org/guide/directory-structure/)
+  - Nuxt の自動で反映されるディレクトリの機能 [??](https://ja.nuxtjs.org/guide/directory-structure/)
     - store ディレクトリに配置したファイルは、自動的に Vuex として読み込まれる
     - pages ディレクトリに配置した .vue ファイルは、自動でルーティングされる
-  - Nuxt では、勝手にエイリアスを効かせてくれていて `~` or `@` == srcDir,  `~~` or `@@` == rootDir [?](https://ja.nuxtjs.org/guide/directory-structure/)
+  - Nuxt では、勝手にエイリアスを効かせてくれている [??](https://ja.nuxtjs.org/guide/directory-structure/)
+    - `~` or `@` == srcDir,  `~~` or `@@` == rootDir 
+    - `import hoge from '~/conponents/Hoge'` とかできる
