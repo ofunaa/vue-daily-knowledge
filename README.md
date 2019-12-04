@@ -17,5 +17,7 @@
 
 ## JavaScript
 
+- jsの最新情報は js-primer と言う有志のサイトが結構有力
+  - https://jsprimer.net/
 - jsの次の機能は `tc39/proposals` と言うリポジトリで提示されている
   - https://github.com/tc39/proposals
