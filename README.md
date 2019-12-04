@@ -6,3 +6,10 @@
     - `~` or `@` == srcDir
     - `~~` or `@@` == rootDir 
     - `import hoge from '~/conponents/Hoge'` とかできる
+- TypeScript
+  - tsの型で困ったら、 utility types を見るとなんとかなるかもしれない
+    - https://www.typescriptlang.org/docs/handbook/utility-types.html
+  - 型に条件分岐を加えたい場合は、 conditional types をすると解決できる
+- JavaScript
+  - jsの次の機能は `tc39/proposals` と言うリポジトリで提示されている
+    - https://github.com/tc39/proposals
